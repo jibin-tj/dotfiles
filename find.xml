@@ -11,5 +11,6 @@
     <mask>*.java</mask>
     <mask>*.yml</mask>
     <mask>*.kt</mask>
+    <mask>*.hbs,*.js</mask>
   </component>
 </application>
