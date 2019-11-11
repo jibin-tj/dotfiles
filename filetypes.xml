@@ -4,6 +4,7 @@
       <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern="Jenkinsfile*" type="Groovy" />
+      <mapping ext="gradle.kts" type="Kotlin" />
       <mapping pattern="customer-registration-notification-to-client.pebble" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping ext="pebble" type="PLAIN_TEXT" />
