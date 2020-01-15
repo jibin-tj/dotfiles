@@ -8,6 +8,7 @@
       <mapping pattern="customer-registration-notification-to-client.pebble" type="PLAIN_TEXT" />
       <mapping pattern="5-client-domain-verification.yml" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern="del" type="PLAIN_TEXT" />
       <mapping ext="pebble" type="PLAIN_TEXT" />
       <mapping ext="ldiff" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
