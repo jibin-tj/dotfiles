@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="Jenkinsfile*" type="Groovy" />
+      <mapping ext="main.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping pattern="customer-registration-notification-to-client.pebble" type="PLAIN_TEXT" />
       <mapping pattern="5-client-domain-verification.yml" type="PLAIN_TEXT" />
@@ -9,9 +10,9 @@
       <mapping pattern="del" type="PLAIN_TEXT" />
       <mapping ext="pebble" type="PLAIN_TEXT" />
       <mapping ext="ldiff" type="PLAIN_TEXT" />
+      <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <mapping pattern="application-local-properties" type="Properties" />
       <mapping pattern="constants" type="TypeScript" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
