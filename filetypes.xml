@@ -8,6 +8,7 @@
       <mapping pattern="5-client-domain-verification.yml" type="PLAIN_TEXT" />
       <mapping pattern="testgit" type="PLAIN_TEXT" />
       <mapping pattern="del" type="PLAIN_TEXT" />
+      <mapping pattern=".reloadTrigger" type="PLAIN_TEXT" />
       <mapping pattern="customer-registration-notification-to-client.pebble" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping ext="pebble" type="PLAIN_TEXT" />
