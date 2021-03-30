@@ -1,8 +1,10 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
-      <removed_mapping ext="klib" type="ARCHIVE" />
+      <mapping ext="klib" type="ARCHIVE" />
       <mapping pattern="Jenkinsfile*" type="Groovy" />
+      <mapping ext="gradle.kts" type="Kotlin" />
+      <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern="init_mssql.sql" type="PLAIN_TEXT" />
       <mapping pattern="5-client-domain-verification.yml" type="PLAIN_TEXT" />
       <mapping pattern="testgit" type="PLAIN_TEXT" />
