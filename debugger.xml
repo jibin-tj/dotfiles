@@ -259,7 +259,7 @@
   </component>
   <component name="NodeRendererSettings">
     <CustomRenderers VERSION="8">
-      <Renderer ID="CompoundTypeRenderer">
+      <Renderer ID="CompoundNodeRenderer">
         <option name="ENABLED" value="true" />
         <option name="QUALIFIED_NAME" value="org.apache.catalina.core.ApplicationFilterConfig" />
         <Renderer ID="LabelRenderer" role="label">
@@ -268,7 +268,7 @@
           <option name="LABEL_EXPRESSION" value="getFilter().getClass()&#13;&#13;JAVA" />
         </Renderer>
       </Renderer>
-      <Renderer ID="CompoundTypeRenderer">
+      <Renderer ID="CompoundNodeRenderer">
         <option name="ENABLED" value="true" />
         <option name="QUALIFIED_NAME" value="org.apache.catalina.core.ApplicationFilterConfig" />
         <Renderer ID="LabelRenderer" role="label">
@@ -283,18 +283,11 @@
     <data-views>
       <option name="showLibraryStackFrames" value="false" />
     </data-views>
-    <general>
-      <evaluation-dialog-mode>CODE_FRAGMENT</evaluation-dialog-mode>
-    </general>
+    <general />
     <debuggers>
       <debugger id="javascript">
         <configuration>
           <custom-object-presentation />
-        </configuration>
-      </debugger>
-      <debugger id="kotlin_debugger">
-        <configuration>
-          <option name="filterForStdlibAlreadyAdded" value="true" />
         </configuration>
       </debugger>
     </debuggers>
