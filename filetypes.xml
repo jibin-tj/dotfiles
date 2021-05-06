@@ -19,8 +19,8 @@
       <mapping ext="yml" type="SnakeYAML" />
       <mapping pattern="constants" type="TypeScript" />
       <mapping pattern="jenkinsFile" type="YAML" />
-      <mapping ext="yaml" type="YAML" />
       <removed_mapping ext="yml" type="YAML" />
+      <removed_mapping ext="yaml" type="YAML" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="dockerfile" approved="true" type="textmate" />
