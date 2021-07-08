@@ -25,8 +25,7 @@
       <removed_mapping ext="makefile" approved="true" type="textmate" />
       <removed_mapping ext="snakefile" approved="true" type="textmate" />
       <removed_mapping ext="yaml" approved="true" type="SnakeYAML" />
-      <removed_mapping ext="yaml" type="YAML" />
-      <removed_mapping ext="yml" type="YAML" />
+      <removed_mapping ext="yml" type="SnakeYAML" />
       <mapping pattern="labelTestData" type="CSV" />
       <mapping pattern="profileTestData" type="CSV" />
     </extensionMap>
