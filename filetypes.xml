@@ -6,22 +6,19 @@
       <mapping ext="space.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
-      <mapping pattern="init_mssql.sql" type="PLAIN_TEXT" />
-      <mapping pattern="5-client-domain-verification.yml" type="PLAIN_TEXT" />
-      <mapping pattern="testgit" type="PLAIN_TEXT" />
       <mapping pattern="del" type="PLAIN_TEXT" />
-      <mapping pattern=".reloadTrigger" type="PLAIN_TEXT" />
-      <mapping pattern="customer-registration-notification-to-client.pebble" type="PLAIN_TEXT" />
+      <mapping pattern="5-client-domain-verification.yml" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern="testgit" type="PLAIN_TEXT" />
+      <mapping pattern="init_mssql.sql" type="PLAIN_TEXT" />
+      <mapping pattern="customer-registration-notification-to-client.pebble" type="PLAIN_TEXT" />
+      <mapping pattern=".reloadTrigger" type="PLAIN_TEXT" />
       <mapping ext="pebble" type="PLAIN_TEXT" />
       <mapping ext="pem" type="PLAIN_TEXT" />
       <mapping ext="ldiff" type="PLAIN_TEXT" />
       <mapping pattern="application-local-properties" type="Properties" />
-      <removed_mapping ext="yml" type="SnakeYAML" />
       <mapping pattern="constants" type="TypeScript" />
       <mapping pattern="jenkinsFile" type="YAML" />
-      <mapping ext="yml" type="YAML" />
-      <removed_mapping ext="yaml" type="YAML" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="dockerfile" approved="true" type="textmate" />
@@ -29,6 +26,8 @@
       <removed_mapping ext="makefile" approved="true" type="textmate" />
       <removed_mapping ext="snakefile" approved="true" type="textmate" />
       <removed_mapping ext="yaml" approved="true" type="SnakeYAML" />
+      <removed_mapping ext="yaml" approved="true" type="YAML" />
+      <removed_mapping ext="yml" approved="true" type="SnakeYAML" />
       <mapping pattern="labelTestData" type="CSV" />
       <mapping pattern="profileTestData" type="CSV" />
     </extensionMap>
