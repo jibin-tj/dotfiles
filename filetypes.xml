@@ -3,6 +3,9 @@
     <extensionMap>
       <mapping pattern="delete" type="AUTO_DETECTED" />
       <mapping pattern="Jenkinsfile*" type="Groovy" />
+      <mapping ext="space.kts" type="Kotlin" />
+      <mapping ext="gradle.kts" type="Kotlin" />
+      <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern="delad3_results" type="PLAIN_TEXT" />
       <mapping pattern="del" type="PLAIN_TEXT" />
       <mapping pattern="5-client-domain-verification.yml" type="PLAIN_TEXT" />
@@ -26,9 +29,6 @@
       <removed_mapping ext="yaml" approved="true" type="SnakeYAML" />
       <removed_mapping ext="yaml" approved="true" type="YAML" />
       <removed_mapping ext="yml" approved="true" type="SnakeYAML" />
-      <mapping ext="gradle.kts" type="Kotlin" />
-      <mapping ext="main.kts" type="Kotlin" />
-      <mapping ext="space.kts" type="Kotlin" />
       <mapping pattern="labelTestData" type="CSV" />
       <mapping pattern="profileTestData" type="CSV" />
     </extensionMap>
